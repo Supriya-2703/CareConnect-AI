@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CareConnect AI
 
 A small healthcare information and appointment-request prototype built with Python and Streamlit for the Gokul Infocare AI Skills & Prompt Engineering Assessment.
@@ -70,6 +69,3 @@ ai_healthcare_assistant/
 ├── VIDEO_PRESENTATION_SCRIPT.md
 └── SUBMISSION_EMAIL.md
 ```
-=======
-# CareConnect-AI
->>>>>>> b217b51d7cdfe6ee41687f65e24c65359f8e3882
